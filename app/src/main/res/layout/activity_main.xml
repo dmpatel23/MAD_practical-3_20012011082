@@ -28,7 +28,9 @@
         <androidx.constraintlayout.widget.ConstraintLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
+            android:background="#6DF1ACC5"
             android:padding="20dp">
+
 
             <TextView
                 android:id="@+id/textView6"
